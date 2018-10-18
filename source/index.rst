@@ -33,6 +33,6 @@ The Lichee pi Zero is a compact mini Cortex-A7 core board/development board for 
    
    
    Uboot <development/uboot_index.rst>
-   mainline kernel <development/uboot_index.rst>
+   mainline kernel <development/kernel_index.rst>
    
    
