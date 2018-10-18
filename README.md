@@ -1,4 +1,4 @@
-# Lichee-Zero-Doc-zh-CN
+# Lichee-Zero-Doc-us-english
 The English Document of Lichee Pi Zero. 
 
 
